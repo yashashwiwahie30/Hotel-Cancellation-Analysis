@@ -34,25 +34,33 @@ The accompanying bar graph shows the percentage of canceled reservations and tho
 
 
 In comparison to resort hotels, city hotels have more bookings. Resort hotels may be more expensive than those in cities.
+![image](https://github.com/yashashwiwahie30/Project-1-Data-Analysis/assets/103446037/38ef2a12-9833-414b-9d2d-284c9ba0d3ce)
+
  
 
 The line graph above shows that, on certain days, the average daily rate for a city hotel is less than that of a resort hotel, and on other days, it is even less. Weekends and holidays may see a rise in resort hotel rates.
 
  
+![image](https://github.com/yashashwiwahie30/Project-1-Data-Analysis/assets/103446037/76be8b79-6f8b-4386-be23-10f2b3d53db6)
 
 
 We have developed the grouped bar graph to analyze the months with the highest and lowest reservation levels according to reservation status. As can be seen, both the number of confirmed reservations and the number of canceled reservations were the most extensive in August. At the same time, January has the most canceled reservations.
  
+![image](https://github.com/yashashwiwahie30/Project-1-Data-Analysis/assets/103446037/a3225448-7dee-4a23-a422-1181f84108ec)
 
 
 This bar graph demonstrates that cancellations are most common when prices are most excellent and are least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation.
 
 Now, let's see which country has the highest reservation canceled. The top country is Portugal, which has the highest number of cancellations.
  
+![image](https://github.com/yashashwiwahie30/Project-1-Data-Analysis/assets/103446037/d70a9957-bb9d-472c-bd25-723d6710d8b0)
 
 
 Let's check the area from where guests are visiting the hotels and making reservations.
 Is it coming from Direct or Groups, Online or Offline Travel Agents? Around 46% of the clients come from online travel agencies, whereas 27% come from groups. Only 4% of clients book hotels directly by visiting them and making reservations.
+
+![image](https://github.com/yashashwiwahie30/Project-1-Data-Analysis/assets/103446037/568a659b-44ea-4b4b-b6b2-241d74b9f079)
+
  
 The graph shows reservations are canceled when the average daily rate is higher than when they are not canceled. The above analysis shows that a higher price leads to higher cancellations.
 
