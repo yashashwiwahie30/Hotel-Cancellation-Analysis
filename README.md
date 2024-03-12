@@ -5,7 +5,7 @@
 In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel now deals with several issues, including less revenue and less-than-ideal hotel room use. Consequently, lowering cancellation rates is both hotels' primary goal to increase their efficiency in generating income and for us to offer thorough business advice to address this problem.
 The main topics of this report are the analysis of hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation.
 
-Assumptions
+## Assumptions
 1. No unusual occurrences between 2015 and 2017 will substantially impact the data used.
 2. The information is still current and can be used to efficiently analyze a hotel's possible plans.
 3. no unanticipated negatives to the hotel employing any advised technique.
@@ -14,19 +14,19 @@ Assumptions
 6. Cancellations result in vacant rooms for the booked length of time.
 7. Clients make hotel reservations the same year they make cancellations.
 
-Research Question
+## Research Question
 1. What are the variables that affect hotel reservation cancellations?
 2. How can we make hotel reservation cancellations better?
 3. How will hotels be assisted in making pricing and promotional decisions?
 
 
-Hypothesis
+## Hypothesis
 1. More cancellations occur when prices are higher.
 2. Customers tend to cancel more frequently When there is a longer waiting list.
 3. Most clients come from offline travel agents to make their reservations.
 
 
-Analysis & Findings
+## Analysis & Findings
 
 ![image](https://github.com/yashashwiwahie30/Project-1-Data-Analysis/assets/103446037/b8b7b069-89a0-4f07-b5e7-89df126a3ae8)
 
@@ -65,7 +65,7 @@ Is it coming from Direct or Groups, Online or Offline Travel Agents? Around 46% 
  
 The graph shows reservations are canceled when the average daily rate is higher than when they are not canceled. The above analysis shows that a higher price leads to higher cancellations.
 
-Suggestions
+## Suggestions
 
 1.	Cancellation rates rise as the price does. To prevent cancellations of reservations, hotels could work on their pricing strategies and try to lower the rates for specific hotels based on locations. They can also offer discounts to consumers.
 2.	The ratio of cancellations and no cancellations of the resort hotel is higher in the resort hotel than in the city hotels. The hotels should reasonably discount the room prices on weekends or holidays.
